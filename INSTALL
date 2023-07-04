@@ -1,0 +1,5 @@
+Installation Instructions
+
+Type tar -xvzf Poker_Alpha.tar.gz
+
+then type make

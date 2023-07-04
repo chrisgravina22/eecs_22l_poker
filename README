@@ -1,0 +1,15 @@
+Authors: Daniel McClure, Angelina Negrete, Christiano Gravina, Martin Qinyun Tang, and Zhenyu Tang
+Version Alpha
+May 17, 2022
+
+----------------
+
+General Instructions:
+To install, type "make"
+type "cd bin/"
+type "./Server 10090" in order to start the host server
+OR
+type "./Client" to connect to the server as a player
+    in the dialog window, enter the server name as "bondi.eecs.uci.edu" and the port number as "10090"
+
+For more detailed instructions, please refer to the user manual
